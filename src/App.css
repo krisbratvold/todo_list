@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.position{
+  margin-top: 50px;
+  text-align: center;
+}
+
+.items{
+  margin-left: 45%;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+.line{
+  text-decoration: line-through;
+}
